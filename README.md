@@ -8,7 +8,7 @@ The digital attendance sheet is a web application developed to facilitate the tr
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-username/digital-attendance-sheet.git
+    git clone https://github.com/bricio-imbiki/attendance-sheet.git
     ```
 2. Set up the server environment.
 3. Import the `attendance_sheet.sql` file into the database.
